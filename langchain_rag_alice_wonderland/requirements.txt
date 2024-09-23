@@ -1,0 +1,9 @@
+python-dotenv # For reading environment variables stored in .env file
+langchain
+langchain-community
+langchain-openai # For embeddings
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings 
+torch
